@@ -1,0 +1,1 @@
+{"__resolveType":"site/sections/Theme/Theme.tsx","buttonStyle":{"--border-btn":"1px","--rounded-btn":"0.2rem","--btn-focus-scale":"0.95","--animation-btn":"0.25s"},"mainColors":{"base-100":"#141524"},"font":{"__resolveType":"website/loaders/fonts/googleFonts.ts","fonts":[{"variations":[{"weight":"800"},{"weight":"400"}],"family":"Work Sans"}]}}

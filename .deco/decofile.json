@@ -1,0 +1,405 @@
+{
+  "Groovy Vibes": {
+    "__resolveType": "site/sections/Theme/Theme.tsx",
+    "colorScheme": "any",
+    "buttonStyle": {
+      "--border-btn": "1px",
+      "--rounded-btn": "2rem",
+      "--btn-focus-scale": "0.95",
+      "--animation-btn": "0.25s"
+    },
+    "otherStyles": {
+      "--rounded-box": "1rem",
+      "--rounded-badge": "1.9rem",
+      "--animation-input": "0.2s",
+      "--tab-border": "1px",
+      "--tab-radius": "0.5rem"
+    },
+    "mainColors": {
+      "base-100": "#FDE5BE",
+      "primary": "#FF6502",
+      "secondary": "#FEC902",
+      "tertiary": "#FF91B2",
+      "neutral": "#9934A6",
+      "info": "#2e72d2",
+      "error": "#d82c0d",
+      "warning": "#ffc453",
+      "success": "#008060"
+    },
+    "font": {
+      "__resolveType": "website/loaders/fonts/googleFonts.ts",
+      "fonts": [
+        {
+          "variations": [],
+          "family": "Shrikhand"
+        }
+      ]
+    }
+  },
+  "Neutral": {
+    "__resolveType": "site/sections/Theme/Theme.tsx",
+    "colorScheme": "any",
+    "buttonStyle": {
+      "--border-btn": "1px",
+      "--rounded-btn": "0.2rem",
+      "--btn-focus-scale": "0.95",
+      "--animation-btn": "0.25s"
+    },
+    "otherStyles": {
+      "--rounded-box": "1rem",
+      "--rounded-badge": "1.9rem",
+      "--animation-input": "0.2s",
+      "--tab-border": "1px",
+      "--tab-radius": "0.5rem"
+    },
+    "mainColors": {
+      "base-100": "#ffffff",
+      "primary": "#171717",
+      "secondary": "#c7c7c7",
+      "tertiary": "#404040",
+      "neutral": "#333333",
+      "success": "#008060",
+      "warning": "#ffc453",
+      "error": "#d82c0d",
+      "info": "#2e72d2"
+    },
+    "font": {
+      "__resolveType": "website/loaders/fonts/googleFonts.ts",
+      "fonts": [
+        {
+          "variations": [],
+          "family": "Albert Sans"
+        }
+      ]
+    }
+  },
+  "Preview /sections/Header.tsx": {
+    "__resolveType": "site/sections/Header.tsx",
+    "title": "<p>Click here to tweak this text however you want.</p>",
+    "description": "<p>This text is entirely editable, tailor it freely.</p>"
+  },
+  "Preview /sections/Links.tsx": {
+    "__resolveType": "site/sections/Links.tsx"
+  },
+  "Preview /sections/types.ts": {
+    "__resolveType": "site/sections/types.ts"
+  },
+  "Serene Coastline": {
+    "__resolveType": "site/sections/Theme/Theme.tsx",
+    "colorScheme": "any",
+    "buttonStyle": {
+      "--border-btn": "1px",
+      "--rounded-btn": "0.8rem",
+      "--btn-focus-scale": "0.95",
+      "--animation-btn": "0.25s"
+    },
+    "otherStyles": {
+      "--rounded-box": "1rem",
+      "--rounded-badge": "1.9rem",
+      "--animation-input": "0.2s",
+      "--tab-border": "1px",
+      "--tab-radius": "0.5rem"
+    },
+    "mainColors": {
+      "base-100": "#cceae3",
+      "primary": "#00767F",
+      "secondary": "#9BD8E7",
+      "tertiary": "#004247",
+      "neutral": "#E2E2E2",
+      "success": "#008060",
+      "warning": "#ffc453",
+      "error": "#d82c0d",
+      "info": "#2e72d2"
+    },
+    "font": {
+      "__resolveType": "website/loaders/fonts/googleFonts.ts",
+      "fonts": [
+        {
+          "variations": [],
+          "family": "Shadows Into Light"
+        }
+      ]
+    }
+  },
+  "Sunset Glow": {
+    "__resolveType": "site/sections/Theme/Theme.tsx",
+    "colorScheme": "any",
+    "buttonStyle": {
+      "--border-btn": "1px",
+      "--rounded-btn": "0.2rem",
+      "--btn-focus-scale": "0.95",
+      "--animation-btn": "0.25s"
+    },
+    "otherStyles": {
+      "--rounded-box": "1rem",
+      "--rounded-badge": "1.9rem",
+      "--animation-input": "0.2s",
+      "--tab-border": "1px",
+      "--tab-radius": "0.5rem"
+    },
+    "mainColors": {
+      "base-100": "#FFF7D2",
+      "primary": "#A73C5A",
+      "secondary": "#FFBC55",
+      "tertiary": "#FF9900",
+      "neutral": "#4F3000",
+      "success": "#008060",
+      "warning": "#FFC453",
+      "error": "#D82C0D",
+      "info": "#2E72D2"
+    },
+    "font": {
+      "__resolveType": "website/loaders/fonts/googleFonts.ts",
+      "fonts": [
+        {
+          "variations": [],
+          "family": "Special Elite"
+        }
+      ]
+    }
+  },
+  "Urban Chic": {
+    "__resolveType": "site/sections/Theme/Theme.tsx",
+    "colorScheme": "any",
+    "buttonStyle": {
+      "--border-btn": "1px",
+      "--rounded-btn": "0",
+      "--btn-focus-scale": "0.95",
+      "--animation-btn": "0.25s"
+    },
+    "otherStyles": {
+      "--rounded-box": "1rem",
+      "--rounded-badge": "1.9rem",
+      "--animation-input": "0.2s",
+      "--tab-border": "1px",
+      "--tab-radius": "0.5rem"
+    },
+    "mainColors": {
+      "base-100": "#F8F9FD",
+      "primary": "#3141AC",
+      "secondary": "#BADFED",
+      "tertiary": "#DECD8F",
+      "neutral": "#FBF5F1",
+      "success": "#008060",
+      "warning": "#ffc453",
+      "error": "#d82c0d",
+      "info": "#2e72d2"
+    },
+    "font": {
+      "__resolveType": "website/loaders/fonts/googleFonts.ts",
+      "fonts": [
+        {
+          "variations": [],
+          "family": "Poiret One"
+        }
+      ]
+    }
+  },
+  "Vanilla": {
+    "__resolveType": "site/sections/Theme/Theme.tsx",
+    "buttonStyle": {
+      "--border-btn": "1px",
+      "--rounded-btn": "0.2rem",
+      "--btn-focus-scale": "0.95",
+      "--animation-btn": "0.25s"
+    },
+    "mainColors": {
+      "base-100": "#ffffff",
+      "primary": "#5e5e5e",
+      "secondary": "#1c1c1c",
+      "tertiary": "#c4c4c4"
+    },
+    "colorScheme": "dark",
+    "otherStyles": {
+      "--rounded-box": "1rem",
+      "--rounded-badge": "1.9rem",
+      "--animation-input": "0.2s",
+      "--tab-border": "1px",
+      "--tab-radius": "0.5rem"
+    },
+    "font": {
+      "__resolveType": "website/loaders/fonts/googleFonts.ts",
+      "fonts": [
+        {
+          "variations": [
+            {
+              "weight": "400"
+            },
+            {
+              "weight": "900"
+            }
+          ],
+          "family": "Work Sans"
+        }
+      ]
+    },
+    "mode": "dark"
+  },
+  "app-site%2Fapps%2Fsite.ts": {
+    "__resolveType": "site/apps/site.ts",
+    "routes": [],
+    "seo": {
+      "titleTemplate": "%s",
+      "descriptionTemplate": "%s",
+      "type": "website"
+    },
+    "global": [],
+    "caching": {
+      "directives": []
+    },
+    "firstByteThresholdMS": false
+  },
+  "blog": {
+    "__resolveType": "decohub/apps/blog.ts"
+  },
+  "decohub": {
+    "__resolveType": "site/apps/decohub.ts",
+    "apps": []
+  },
+  "htmx": {
+    "__resolveType": "decohub/apps/htmx.ts",
+    "version": "1.9.11"
+  },
+  "pages-Home-927328": {
+    "name": "Home",
+    "path": "/",
+    "sections": [
+      {
+        "__resolveType": "site/sections/Header.tsx",
+        "title": "<p>Web and Mobile Freelance Developer</p>",
+        "description": "<p>I help you bring your digital vision to the digital world.</p>",
+        "logo": {
+          "img": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5713/bda4d3fe-75fc-4a0c-a1ce-5d44db5baed9",
+          "alt": "Jean Desauw",
+          "width": 104,
+          "height": 104,
+          "link": "https://jean-desauw.fr"
+        }
+      },
+      {
+        "__resolveType": "site/sections/Social.tsx",
+        "social": [
+          {
+            "label": "Linkedin",
+            "href": "https://www.linkedin.com/in/jean-desauw/"
+          },
+          {
+            "label": "Instagram",
+            "href": "https://www.instagram.com/jeandes_code/"
+          },
+          {
+            "label": "Discord",
+            "href": "https://discord.com/users/:680586929837965333"
+          }
+        ]
+      },
+      {
+        "__resolveType": "site/sections/Links.tsx",
+        "links": [
+          {
+            "icon": "ArrowRight",
+            "label": "Website",
+            "href": "https://www.jean-desauw.fr"
+          },
+          {
+            "icon": "Star",
+            "label": "Github",
+            "href": "https://github.com/JeanDes-Code"
+          },
+          {
+            "icon": {},
+            "label": "Malt",
+            "href": "https://www.malt.fr/profile/jeandesauw"
+          }
+        ]
+      },
+      {
+        "__resolveType": "site/sections/Image.tsx",
+        "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5713/d9c93886-64de-4660-aa12-f7042a0a96bf",
+        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5713/bc31a947-3d66-4b70-8708-1d1c518ff084",
+        "alt": "website"
+      },
+      {
+        "__resolveType": "site/sections/Links.tsx",
+        "links": [
+          {
+            "icon": "Linkedin",
+            "label": "Linkedin",
+            "href": "https://www.linkedin.com/in/jean-desauw/"
+          },
+          {
+            "icon": "Instagram",
+            "label": "Instagram",
+            "href": "https://www.instagram.com/jeandes_code/"
+          },
+          {
+            "icon": "Discord",
+            "label": "Discord",
+            "href": "https://discord.com/users/:680586929837965333"
+          }
+        ]
+      }
+    ],
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "site": {
+    "__resolveType": "site/apps/site.ts",
+    "routes": [
+      {
+        "__resolveType": "website/loaders/pages.ts"
+      }
+    ],
+    "seo": {
+      "titleTemplate": "%s",
+      "descriptionTemplate": "%s",
+      "type": "website",
+      "title": "Jean Desauw's Link tree",
+      "description": "This is the link tree for Jean Desauw a web and mobile freelance developer.",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5713/bd539036-9a4d-46dc-86ec-cea3e42256f1",
+      "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5713/7a9b6195-ad1d-42be-a366-fcc2fe9d449c"
+    },
+    "global": [
+      {
+        "__resolveType": "htmx/sections/htmx.tsx"
+      }
+    ],
+    "caching": {
+      "directives": []
+    },
+    "firstByteThresholdMS": false,
+    "theme": {
+      "__resolveType": "Dark Mode"
+    }
+  },
+  "Dark Mode": {
+    "__resolveType": "site/sections/Theme/Theme.tsx",
+    "buttonStyle": {
+      "--border-btn": "1px",
+      "--rounded-btn": "0.2rem",
+      "--btn-focus-scale": "0.95",
+      "--animation-btn": "0.25s"
+    },
+    "mainColors": {
+      "base-100": "#141524"
+    },
+    "font": {
+      "__resolveType": "website/loaders/fonts/googleFonts.ts",
+      "fonts": [
+        {
+          "variations": [
+            {
+              "weight": "800"
+            },
+            {
+              "weight": "400"
+            }
+          ],
+          "family": "Work Sans"
+        }
+      ]
+    }
+  },
+  "Preview /sections/Image.tsx": {
+    "__resolveType": "site\\sections\\Image.tsx"
+  }
+}
