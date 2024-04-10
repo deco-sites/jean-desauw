@@ -1,4 +1,32 @@
 {
+  "Dark Mode": {
+    "__resolveType": "site/sections/Theme/Theme.tsx",
+    "buttonStyle": {
+      "--border-btn": "1px",
+      "--rounded-btn": "0.2rem",
+      "--btn-focus-scale": "0.95",
+      "--animation-btn": "0.25s"
+    },
+    "mainColors": {
+      "base-100": "#141524"
+    },
+    "font": {
+      "__resolveType": "website/loaders/fonts/googleFonts.ts",
+      "fonts": [
+        {
+          "variations": [
+            {
+              "weight": "800"
+            },
+            {
+              "weight": "400"
+            }
+          ],
+          "family": "Work Sans"
+        }
+      ]
+    }
+  },
   "Groovy Vibes": {
     "__resolveType": "site/sections/Theme/Theme.tsx",
     "colorScheme": "any",
@@ -77,6 +105,9 @@
     "__resolveType": "site/sections/Header.tsx",
     "title": "<p>Click here to tweak this text however you want.</p>",
     "description": "<p>This text is entirely editable, tailor it freely.</p>"
+  },
+  "Preview /sections/Image.tsx": {
+    "__resolveType": "site\\sections\\Image.tsx"
   },
   "Preview /sections/Links.tsx": {
     "__resolveType": "site/sections/Links.tsx"
@@ -356,7 +387,8 @@
       "title": "Jean Desauw's Link tree",
       "description": "This is the link tree for Jean Desauw a web and mobile freelance developer.",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5713/bd539036-9a4d-46dc-86ec-cea3e42256f1",
-      "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5713/7a9b6195-ad1d-42be-a366-fcc2fe9d449c"
+      "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5713/7a9b6195-ad1d-42be-a366-fcc2fe9d449c",
+      "themeColor": "dark"
     },
     "global": [
       {
@@ -370,36 +402,5 @@
     "theme": {
       "__resolveType": "Dark Mode"
     }
-  },
-  "Dark Mode": {
-    "__resolveType": "site/sections/Theme/Theme.tsx",
-    "buttonStyle": {
-      "--border-btn": "1px",
-      "--rounded-btn": "0.2rem",
-      "--btn-focus-scale": "0.95",
-      "--animation-btn": "0.25s"
-    },
-    "mainColors": {
-      "base-100": "#141524"
-    },
-    "font": {
-      "__resolveType": "website/loaders/fonts/googleFonts.ts",
-      "fonts": [
-        {
-          "variations": [
-            {
-              "weight": "800"
-            },
-            {
-              "weight": "400"
-            }
-          ],
-          "family": "Work Sans"
-        }
-      ]
-    }
-  },
-  "Preview /sections/Image.tsx": {
-    "__resolveType": "site\\sections\\Image.tsx"
   }
 }
